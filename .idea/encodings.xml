@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://C:/E-commerce/DeliveryService/DeliveryService" charset="UTF-8" />
+    <file url="file://C:/E-commerce/billing-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billing-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurika-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inventory-service" charset="UTF-8" />
+  </component>
+</project>
